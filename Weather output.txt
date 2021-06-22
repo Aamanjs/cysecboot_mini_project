@@ -1,0 +1,8 @@
+Enter the city name: Mumbai
+-------------------------------------------------------------
+Weather Stats for - MUMBAI  || 22 Jun 2021 | 12:37:10 PM
+-------------------------------------------------------------
+Current temperature is: 30.99 deg C
+Current weather desc  : haze
+Current Humidity      : 74 %
+Current wind speed    : 5.66 kmph
